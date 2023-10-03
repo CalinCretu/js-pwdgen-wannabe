@@ -11,7 +11,8 @@
     - assegnare alla variabile il valore restituito da un prompt
 - Aggiungere un numero casuale per completare la password:
     - dichiarare una variabile
-    - aggiungere la variabile alla concatenazione
+    - dare un valore casuale alla variabile
+    - dichiarare una variabile con coincatenate il nome utente con congnome utente, colore preferito e numero casuale
 - Scrivi sulla pagina il risultato della concatenazione  (nomecognomecolorepreferito21):
     - inserire nell'html un tag h1 con id="password"
     - recuperare con js l'elemento del dom con id = 'password'
